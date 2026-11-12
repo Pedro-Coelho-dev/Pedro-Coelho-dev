@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="#-sobre"><img src="https://img.shields.io/badge/Sobre-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
-<a href="#-projetos"><img src="https://img.shields.io/badge/Projetos-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
-<a href="#-stack"><img src="https://img.shields.io/badge/Stack-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
-<a href="#-contato"><img src="https://img.shields.io/badge/Contato-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
+<a href="#sobre"><img src="https://img.shields.io/badge/Sobre-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
+<a href="#projetos"><img src="https://img.shields.io/badge/Projetos-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Stack-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
+<a href="#contato"><img src="https://img.shields.io/badge/Contato-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
 
 <br/><br/>
 
