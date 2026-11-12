@@ -6,13 +6,6 @@
 
 <br/>
 
-<a href="#sobre"><img src="https://img.shields.io/badge/Sobre-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
-<a href="#projetos"><img src="https://img.shields.io/badge/Projetos-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Stack-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
-<a href="#contato"><img src="https://img.shields.io/badge/Contato-161b22?style=for-the-badge&labelColor=161b22&color=161b22" /></a>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/Pedro%20II%2C%20PI-0d1117?style=flat-square&logo=googlemaps&logoColor=5B8FD1" />
 <img src="https://img.shields.io/badge/IFPI-ADS%20(2024%20%E2%80%93%20em%20andamento)-0d1117?style=flat-square&logo=googlescholar&logoColor=5B8FD1" />
 <img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-0d1117?style=flat-square&logo=checkmarx&logoColor=3FB950" />
