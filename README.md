@@ -41,12 +41,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no **IFPI (Campus Pedro 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfólio</h3>
-      <p>Portfólio pessoal publicado no GitHub Pages.</p>
-      <p><img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" /></p>
-      <a href="https://github.com/Pedro-Coelho-dev/PortfolioGratuito">Ver repositório →</a>
-    </td>
+<td width="50%" valign="top">
+  <h3>🌐 Portfólio Gratuito</h3>
+  <p>Projeto de treino em HTML e CSS: uma página de portfólio simples, publicada no GitHub Pages.</p>
+  <p><img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" /></p>
+  <a href="https://github.com/Pedro-Coelho-dev/PortfolioGratuito">Ver repositório →</a>
+</td>
     <td width="50%" valign="top">
       <h3>🚧 Próximo projeto</h3>
       <p>Uma aplicação com front-end em React consumindo uma API REST própria.</p>
