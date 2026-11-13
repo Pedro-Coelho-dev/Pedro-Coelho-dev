@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas no **IFPI (Campus Pedro II)**, focado em desenvolvimento web. Estou construindo minha base em front-end e APIs REST e buscando minha primeira oportunidade na área.
+Estudante de Análise e Desenvolvimento de Sistemas no **IFPI (Campus Pedro II)**, focado em desenvolvimento web. Estou buscando minha primeira oportunidade na área.
 
 ## 🛠️ Tecnologias
 
