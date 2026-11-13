@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,100:52b788&height=170&section=header&text=Pedro%20Coelho&fontColor=ffffff&fontSize=44&fontAlignY=40&animation=fadeIn&desc=Desenvolvedor%20Web&descSize=18&descAlignY=62" width="100%" alt="Pedro Coelho" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1400&color=52B788&center=true&vCenter=true&width=480&height=30&lines=Estágio+ou+vaga+júnior;Front-end+com+React+e+JavaScript;Estudante+de+ADS+no+IFPI;APIs+REST+e+trabalho+em+equipe" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1400&color=52B788&center=true&vCenter=true&width=480&height=30&lines=Est%C3%A1gio+ou+vaga+j%C3%BAnior;Front-end+com+React+e+JavaScript;Estudante+de+ADS+no+IFPI;APIs+REST+e+trabalho+em+equipe" alt="Typing SVG" />
 
 <br>
 
